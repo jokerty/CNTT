@@ -368,7 +368,7 @@ Cài đặt bình thường, yêu cầu phải có .NET 4.5
 
 Giao diện của chương trình:
 
-<img src=http://imgur.com/vIOijKa>
+<img src=http://i.imgur.com/vIOijKa.png>
 
 Thêm tài khoản Github:
 
@@ -376,7 +376,7 @@ Thêm tài khoản Github:
 
 - Tại mục Configure git thêm Tên và email của mình
 
-<img src=http://imgur.com/x4kj0MS>
+<img src=http://i.imgur.com/x4kj0MS.png>
 
 Click Update
 
@@ -394,7 +394,7 @@ Tạo một repo mới trên trang github.com
 
 <img src=http://i.imgur.com/alRFWKl.png>
 
-<img src=http://imgur.com/srD4k3l>
+<img src=http://i.imgur.com/srD4k3l.png>
 
 <a name="212clone"></a>
 ##### 2.1.2. Clone
