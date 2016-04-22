@@ -312,9 +312,9 @@ Các thiết lập ban đầu:
 
 - Bạn cần thiết lập tên và email của mình để mỗi khi commit lên server sẽ nhận biết được ai commit lên vì một repo có thể có nhiều người tham gia.
 	
-> git config --global user.name "Duc NC"
+> git config --global user.name "Anh NT"
 
-> git config --global user.email nguyencongduc3112@gmail.com
+> git config --global user.email jokertykma@gmail.com
 
 - Lựa chọn trình soạn thảo mặc định, có thể là vi, vim, nano,...
 
@@ -368,7 +368,7 @@ Cài đặt bình thường, yêu cầu phải có .NET 4.5
 
 Giao diện của chương trình:
 
-<img src=http://i.imgur.com/Ebx6dJD.png>
+<img src=http://imgur.com/vIOijKa>
 
 Thêm tài khoản Github:
 
@@ -376,7 +376,7 @@ Thêm tài khoản Github:
 
 - Tại mục Configure git thêm Tên và email của mình
 
-<img src=http://i.imgur.com/DSLP60i.png>
+<img src=http://imgur.com/x4kj0MS>
 
 Click Update
 
@@ -394,7 +394,7 @@ Tạo một repo mới trên trang github.com
 
 <img src=http://i.imgur.com/alRFWKl.png>
 
-<img src=http://i.imgur.com/MJZjYMm.png>
+<img src=http://imgur.com/srD4k3l>
 
 <a name="212clone"></a>
 ##### 2.1.2. Clone
